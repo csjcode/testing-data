@@ -1,0 +1,12 @@
+{
+  "name": "DRZ/2 DevTest",
+  "symbol": "DRZ",
+  "description": "This is a DRZ 2022 test token for new idea.",
+  "image": "https://arweave.net/t4Q1s65_BM_zZKq5q1dIrEOe4H-ayvReW2fOaC0DmXE",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "DRZ/2 Test Token info"
+    }
+  ]
+}
